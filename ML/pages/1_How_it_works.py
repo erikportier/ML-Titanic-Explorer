@@ -40,7 +40,7 @@ def train_model(preprocessing_pipeline, model_class,filename):
             
             return y_pred, acc_train, acc_test
 
-titanic_df = pd.read_excel("./../data/titanic_dataset.xls")
+titanic_df = pd.read_excel("/data/titanic_dataset.xls")
 X = titanic_df.drop(['survived','name','ticket'], axis = 1)
 y = titanic_df['survived']
 
