@@ -18,8 +18,5 @@ st.markdown(
      ## How it works:
      In this demo you will apply each of the steps in our ML pipeline with the push of a button!
 
-     ## Try it yourself!
-     In this demo you will use the model trained by giving it your own set of parameters.
-
 """
 )
