@@ -1,3 +1,8 @@
+
+# ML Titanic Explorer
+
+![iceberg_image](https://plus.unsplash.com/premium_photo-1676573201187-fb4546c5bf8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80)
+
 The goal of this app is to walk-through some of the main steps in creating an machine learning pipeline using as a base the Titanic dataset in a no-code way.
 
 ## The App
